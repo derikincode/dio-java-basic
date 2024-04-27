@@ -1,0 +1,4 @@
+Nessa aula, fizemos a organização dos arquivos em pastas, para termos uma 
+melhor distribuição dos arquivos, de acordo com a proposta do projeto.
+
+src\edu\derik\...
