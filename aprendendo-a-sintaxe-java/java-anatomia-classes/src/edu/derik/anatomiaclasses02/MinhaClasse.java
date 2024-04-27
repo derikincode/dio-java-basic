@@ -1,3 +1,5 @@
+package edu.derik.anatomiaclasses02;
+
 public class MinhaClasse {
     public static void main (String [] args) {
 
