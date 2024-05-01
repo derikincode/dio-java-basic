@@ -1,0 +1,11 @@
+== | igual
+
+!= | diferente
+
+< | menor que
+
+> | maior que
+
+<= | menor ou igual
+
+>= | maior ou igual
